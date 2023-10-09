@@ -19,6 +19,6 @@ This project is part of [uses.tech](https://uses.tech). <br/> It is a collection
 - **File Manager:** Nautilus
 
 # 🎒 Everyday Carry (EDC)
-- **Phone:** Oppo Reno 3 Pro
+- **Phone:** android
 - **Watch:** Titan NN1639SM02 Analog Watch  
 - **Headset:** Boat-neckband
